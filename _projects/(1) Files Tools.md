@@ -10,7 +10,7 @@ description: Files Tools is a tools based app, it provides tools to perform vari
 Files Tools is is a tools based app, it provides **tools** to perform various operations on files like **split, merge and conversion**, that will help everyone in their day to day life, without the need of internet.
 
 <p class="text-center">
-{% include elements/button.html link="https://play.google.com/apps/internaltest/4699790271846087718" text="Go For Internal Testing" %}
+{% include elements/button.html link="https://play.google.com/apps/testing/com.pureinfoapps.android.apps.filestools" text="Go For Open Testing" %}
 </p>
 
 <p class="text-center">
