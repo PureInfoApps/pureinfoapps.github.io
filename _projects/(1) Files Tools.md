@@ -12,3 +12,7 @@ Files Tools is is a tools based app, it provides **tools** to perform various op
 <p class="text-center">
 {% include elements/button.html link="https://play.google.com/apps/internaltest/4699790271846087718" text="Go For Internal Testing" %}
 </p>
+
+<p class="text-center">
+{% include elements/button.html link="https://pureinfoapps.com/Files%20Tools/Privacy%20Policy" text="Privacy Policy" %}
+</p>
