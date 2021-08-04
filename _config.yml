@@ -1,12 +1,12 @@
 ### Site Settings ###
 # bundle exec jekyll serve --incremental
-title               : My Portfolio
+title               : Pure Info Apps
 description         : >-
                       Hello, I am Deepanshu, an avid software developer
                       and creator of Pure Info Apps (PIA) from India. To Learn
                       more head over to about page.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : chaudharydeepanshu/chaudharydeepanshu.guthub.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : pureinfoapps/pureinfoapps.guthub.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
