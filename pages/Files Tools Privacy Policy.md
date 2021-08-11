@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Files Tools Privacy Policy
-permalink: /Files Tools/Privacy Policy
+permalink: /files-tools/privacy-policy
 weight: 3
 ---
 
