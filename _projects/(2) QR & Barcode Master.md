@@ -6,56 +6,62 @@ description: QR & Barcode Master is a scan and create app, it provides options t
 permalink: projects/qr-and-barcode-master
 ---
 
-# QR & Barcode Master
+# QR &-Barcode Master
 
-| App Icon | Download Link |
-| ------------- | ------------- |
-| ![ic_launcher](https://user-images.githubusercontent.com/85361211/128973496-365b0ea2-d777-4423-b86b-416814b586a8.png) | <a href='https://play.google.com/store/apps/details?id=com.pureinfoapps.android.apps.filestools'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a> |
+| App Icon | Download Link | Feature Image |
+| ------------- | ------------- | ------------- |
+| ![ic_launcher](https://user-images.githubusercontent.com/85361211/132852693-c4d159b6-c92e-4274-8acc-b1a883055818.png) | <a href='https://play.google.com/store/apps/details?id=com.pureinfoapps.android.apps.filestools'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='300px'/></a> | ![Feature Image](https://user-images.githubusercontent.com/85361211/132852766-ee3ec264-9333-44fe-9c4a-cc7418088e6f.png) |
 
-QR & Barcode Master is an application based on tools, it provides tools to perform various operations on files (documents and media), which helps everyone in their everyday life.
+QR & Barcode Master is a scan and create app that works without the need for the internet.
 
 It offers various features such as:-
 
-**For PDF:-**
--  Merge multiple PDFs.
--  Split PDF - Extract select pages, custom ranges, fixed range, extract all pages.
--  Modify PDF - Rotate, delete, reorder PDF pages.
--  Compress PDF.
--  Protect PDF - Encrypt and decrypt PDF.
--  Convert PDF - PDF To Images.
+**For Scanning:-**
+-  Scan QR / Barcodes using camera.
+-  Scan QR / Barcodes using images from the device.
 
-**For Image:-**
--  Convert Images - Images To PDF.
+**For Creating:-**
+-  Create Aztec.
+-  Create CODABAR.
+-  Create CODE 128.
+-  Create CODE 39.
+-  Create Data Matrix.
+-  Create EAN 13.
+-  Create EAN 2.
+-  Create EAN 5.
+-  Create EAN 8.
+-  Create GS1 128.
+-  Create ISBN.
+-  Create ITF.
+-  Create ITF 14.
+-  Create ITF 16.
+-  Create PDF 417.
+-  Create QR-Code.
+-  Create RM4SCC.
+-  Create Telepen.
+-  Create UPC A.
+-  Create UPC E.
 
-| Document Tools | Merge PDF | Split PDF | Modify PDF |
-| ---- | ---- | ---- | ---- |
-| ![Document Tools](https://user-images.githubusercontent.com/85361211/128974714-e40a5026-81cb-4243-8394-1de97b4db2d5.png) | ![Merge PDF](https://user-images.githubusercontent.com/85361211/128974750-5e9b00ed-6528-455e-87c3-88c67fe33454.png) | ![Split PDF](https://user-images.githubusercontent.com/85361211/128974775-650b1f37-6ae4-4d39-96e7-73022b8e2445.png) | ![Modify PDF](https://user-images.githubusercontent.com/85361211/128974795-8ad6d856-9344-4fa4-a124-25300f4feba2.png) |
+| Scan QR & Barcode |
+| :----: |
+|![Scan QR   Barcode](https://user-images.githubusercontent.com/85361211/132853165-da30985b-b587-4f6e-bcee-270787e15e70.png)|
 
-| Convert PDF | Compress PDF | Secure PDF | Images To PDF |
-| ---- | ---- | ---- | ---- |
-| ![Convert PDF](https://user-images.githubusercontent.com/85361211/128974809-a4dc16cb-962b-45d8-a1d5-4b3edd46e3b9.png) | ![Compress PDF](https://user-images.githubusercontent.com/85361211/128974824-e0b3297f-2a43-49be-a510-ffbbd1b56c61.png) | ![Secure PDF](https://user-images.githubusercontent.com/85361211/128974838-af3ec03f-03f9-4f90-93e6-d7f9151fb204.png) | ![Images To PDF](https://user-images.githubusercontent.com/85361211/128974848-66f7f068-16d7-4895-9b0d-5873e30c35a0.png) |
+| Create QR |
+| :----: |
+|![Create QR 1](https://user-images.githubusercontent.com/85361211/132853234-ec80e108-b1e5-4523-b007-f936dd564ad8.png)![Create QR 2](https://user-images.githubusercontent.com/85361211/132853248-bceb5959-6699-449a-94ea-f0d307c1ebfc.png)|
 
-**Features that I could implement in near future:-**
+| Create Barcode |
+| :----: |
+|![Create Barcode 1](https://user-images.githubusercontent.com/85361211/132853313-8d150a58-a8c9-42b5-b899-c076d84727d9.png)![Create Barcode 2](https://user-images.githubusercontent.com/85361211/132853330-f9fafe74-d7e8-4088-85ca-8d491ed00633.png)|
 
-- Image features
-    - Image compression
-    - Image cropping
-- PDF features
-    - PDF to Word
-    - PDF to Excel
-    - PDF to Powerpoint
-- Zip features
-    - Zip extraction
-    - Zip creation
-- Word features
-    - Word to PDF
-    - Word to Image
-- Excel features
-    - Excel to PDF
-    - Excel to Image
-- Powerpoint features
-    - Powerpoint to PDF
-    - Powerpoint to Image
+| Create More |
+| :----: |
+|![Create More](https://user-images.githubusercontent.com/85361211/132853353-37841a9d-1e9e-4b3c-aa7d-7d00de9138d3.png)|
+
+**Features that I could implement or improve in near future:-**
+
+- For Scanning
+    - Scanning PNG images
 
 ### Contributing
 
